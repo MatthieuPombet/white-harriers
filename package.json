@@ -1,6 +1,6 @@
 {
   "homepage": "http://matthieupombet.github.io/white-harriers",
-  "name": "my-app",
+  "name": "white-harriers",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
