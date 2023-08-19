@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/white-harriers/static/css/main.269b1b30.css",
-    "main.js": "/white-harriers/static/js/main.50c06b44.js",
+    "main.css": "/white-harriers/static/css/main.8628fbc4.css",
+    "main.js": "/white-harriers/static/js/main.b59cd908.js",
     "static/js/787.91072a3f.chunk.js": "/white-harriers/static/js/787.91072a3f.chunk.js",
+    "static/media/ecole.jpg": "/white-harriers/static/media/ecole.86fdfd4aa94dd458af84.jpg",
+    "static/media/actu2.jpg": "/white-harriers/static/media/actu2.67ae2a293d03ca8b17f7.jpg",
+    "static/media/actu1.jpg": "/white-harriers/static/media/actu1.ebc2b868cbfb10f7bb04.jpg",
+    "static/media/color.png": "/white-harriers/static/media/color.6441e63a57ccc5105bad.png",
     "index.html": "/white-harriers/index.html",
-    "main.269b1b30.css.map": "/white-harriers/static/css/main.269b1b30.css.map",
-    "main.50c06b44.js.map": "/white-harriers/static/js/main.50c06b44.js.map",
+    "main.8628fbc4.css.map": "/white-harriers/static/css/main.8628fbc4.css.map",
+    "main.b59cd908.js.map": "/white-harriers/static/js/main.b59cd908.js.map",
     "787.91072a3f.chunk.js.map": "/white-harriers/static/js/787.91072a3f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.269b1b30.css",
-    "static/js/main.50c06b44.js"
+    "static/css/main.8628fbc4.css",
+    "static/js/main.b59cd908.js"
   ]
 }
