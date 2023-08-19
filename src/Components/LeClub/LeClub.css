@@ -3,3 +3,15 @@ h1 {
     width : 100%;
     text-align: center;
 }
+
+.histoire {
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.ecole {
+    width: 80%;
+    margin: auto;
+    margin-top: 20px; 
+}
