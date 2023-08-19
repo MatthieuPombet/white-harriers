@@ -1,6 +1,6 @@
 const HomePage = () => {
     return (<div>
-        Ici on s'amuse comme des petits fous et on fait des tests !!!!!!!
+        Bienvenue sur le site des White Harriers
     </div>)
 }
 
